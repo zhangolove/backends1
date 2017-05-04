@@ -1,0 +1,5 @@
+{ 
+    "netid": "cl46",
+    "frontend": "loutish-calculator.surge.sh",
+    "backend": "https://intense-spire-16995.herokuapp.com"
+}

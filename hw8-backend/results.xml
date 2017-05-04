@@ -1,0 +1,9 @@
+<testsuite name="Mocha Tests" tests="7" failures="0" errors="0" skipped="0" timestamp="Wed, 05 Apr 2017 00:35:39 GMT" time="0.853">
+<testcase classname="Validate Article functionality" name="should give me more than three articles" time="0.792"/>
+<testcase classname="Validate Article functionality" name="should post a new article and get the article as response" time="0.012"/>
+<testcase classname="Validate Article functionality" name="should return an article with a specified id" time="0.005"/>
+<testcase classname="Validate Article functionality" name="should return empty for an invalid id" time="0.002"/>
+<testcase classname="Validate headlines functionality" name="should give me headline of current logged in user" time="0.002"/>
+<testcase classname="Validate headlines functionality" name="should give me headline of sampleUser" time="0.003"/>
+<testcase classname="Validate headlines functionality" name="should update the headline of the default user" time="0.007"/>
+</testsuite>
